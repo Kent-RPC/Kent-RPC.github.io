@@ -25,3 +25,12 @@ Once you have passed this test you are ready to move into the police force as a 
 
 ---
 ### Constabulary
+
+>#### Probationary Police Constable
+>> You are a Probationary Police Constable because either you have just joined the force or have earnt 2 strikes and have been placed on report.
+>
+>> In order to be promoted you must have:
+>>* Been in the force or at least 2 weeks.
+>>* Attented at least 5 events.
+>>* Shown competence in the force.
+>>* Have at least 2 s
