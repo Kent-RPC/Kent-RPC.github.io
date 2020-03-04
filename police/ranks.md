@@ -41,5 +41,6 @@ Once you have passed this test you are ready to move into the police force as a 
 >* Shown activity
 >* Gain at least 2 Inspector+ approval and of a gold command member.
 >* Shown good behaviour. 
+>
 >**Please note that you are promoted at gold command's discression.**
 
