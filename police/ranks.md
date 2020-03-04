@@ -19,7 +19,7 @@ Please note that you can be dismissed at any point of this course at the instruc
 
 1.  The first stage is made of being tought theory and then having a small test.
 1.  The second stage is made of practical teaching you how to drive, arrest, detain, book someone into custody, question and search.
-1.  The last stage is made of a practical and theory test. In this stage you can also go for driving and tazer tests.
+1.  The last stage is made of a practical and theory test. In this stage you can also go for driving and taser tests.
 
 Once you have passed this test you are ready to move into the police force as a Probationary Police Constable
 
@@ -32,13 +32,13 @@ Once you have passed this test you are ready to move into the police force as a 
 > In order to be promoted you must have:
 >* Been in the force or at least 2 weeks.
 >* Attented at least 5 events.
->* Shown competence in the force.
->* Have at least 2 sargents or 1 inspector+'s approval.
+>* Shown  in the force.
+>* Have at least 2 Sergeants or 1 Inspector+ approval.
 
 >#### Police Constable
 >
 >In order to be promoted you must have
 >* Shown activity
->* Gain at least 2 inspector+'s approval and of a gold command member.
->* Shown leadership in the community.
+>* Gain at least 2 Inspector+ approval and of a gold command member.
+>* Shown good behaviour. 
 
