@@ -30,10 +30,10 @@ Once you have passed this test you are ready to move into the police force as a 
 > You are a Probationary Police Constable because either you have just joined the force or have earnt 2 strikes and have been placed on report.
 >
 > In order to be promoted you must have:
->* Been in the force or at least 2 weeks.
+>* Been in the force or at least 3 weeks.
 >* Attented at least 5 events.
->* Shown  in the force.
->* Have at least 2 Sergeants or 1 Inspector+ approval.
+>* Shown compatence in the force.
+>* Have at least 2 Sergeants+ or 1 Chief Inspector+ approval.
 
 >#### Police Constable
 >
@@ -41,4 +41,5 @@ Once you have passed this test you are ready to move into the police force as a 
 >* Shown activity
 >* Gain at least 2 Inspector+ approval and of a gold command member.
 >* Shown good behaviour. 
+>**Please note that you are promoted at gold command's discression.**
 
