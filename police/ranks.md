@@ -11,7 +11,7 @@ To start off with you can only join when applications are available.
 Once you have filled in your application you will be told if you have passed **PLEASE NOTE IF YOU ARE NOT ACCEPTED YOU MAY NOT BE INFORMED**
 
 ---
-### Policing Collage
+### Policing College
 
 Once you have joined the policing collage you will need to go through 3 stages.
 If you would like to you can go straight to stage 3 and skip the teaching phase but this isn't recommended
